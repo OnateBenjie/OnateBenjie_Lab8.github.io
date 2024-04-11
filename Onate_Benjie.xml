@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Fruits>
+
+	<Basket id="1"><Name>Benjie</Name><Apple>12</Apple><Banana>15</Banana><Mango>13</Mango><Papaya>14</Papaya><Melon>15</Melon><FlameFlameFruit>1</FlameFlameFruit></Basket>
+	<Basket id="4"><Name>ad</Name><Apple>21</Apple><Banana>23</Banana><Mango>21</Mango><Papaya>32</Papaya><Melon>12</Melon>
+		<FlameFlameFruit>1</FlameFlameFruit>
+	</Basket>
+	<Basket id="2"><Name>Neji</Name><Apple>12</Apple><Banana>15</Banana><Mango>15</Mango><Papaya>20</Papaya><Melon>15</Melon>
+		<FlameFlameFruit>1</FlameFlameFruit>
+	</Basket>
+	<Basket id="3"><Name>benj</Name><Apple>21</Apple><Banana>32</Banana><Mango>43</Mango><Papaya>43</Papaya><Melon>23</Melon>
+		<FlameFlameFruit>1</FlameFlameFruit>
+	</Basket>
+	
+
+</Fruits>
